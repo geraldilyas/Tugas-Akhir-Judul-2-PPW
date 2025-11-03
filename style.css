@@ -178,6 +178,10 @@ button:hover {
     text-align: center;
 }
 
+.hubungi ul{
+    list-style: none;
+}
+
 .hubungi a {
     color: var(--primary);
     margin: 0 12px;
@@ -191,7 +195,6 @@ button:hover {
     text-shadow: 0 0 10px var(--primary);
 }
 
-/* ----- RESPONSIVE ----- */
 @media (max-width: 768px) {
     .main-content {
         flex-direction: column;
